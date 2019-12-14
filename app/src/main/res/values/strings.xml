@@ -1,0 +1,100 @@
+<resources>
+
+    <string name="app_name">Blood Bank</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_after_sign_up">AfterSignUp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="UserInfoname">Name</string>
+    <string name="UserInfonumber">Phone Number</string>
+    <string name="UserInfogender">Gender</string>
+    <string name="UserInfodob">Date Of Birth</string>
+    <string name="UserInfoaddress">Address</string>
+    <string name="UserInfobloodgroup">Blood Group</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="bloodgroup">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string name="title_activity_donor__list">Donor_List</string>
+
+    <string name="Rh_title"> Rh factors in the Blood</string>
+    <string name="Rh_desc">Another blood group system includes the Rhesus factor. This is determined
+        with the presence or absence of a protein known as the RhD antigen. If this protein is present
+        in the red blood cells then the blood group is termed RhD positive and if these proteins are
+        absent they fall into the category of RhD negative. The term Rhesus is derived from the Rhesus
+        monkeys because the RhD antigen proteins were first discovered in the blood of these species.
+        These combined with the ABO system of blood grouping may fall one among the eight blood group
+        Types known as A+, A-, B+, B-, AB+, AB-, O+,
+        or O-.</string>
+    <string name="A_Type">Type A Blood Group</string>
+    <string name="B_Type">Type B Blood group</string>
+    <string name="O_Type">Type O Blood Group</string>
+    <string name="AB_Type">Type AB Blood Group</string>
+    <string name="A_Desc">Type A is established when A antigens are present on the surface of the red
+        blood cells with anti B bodies in the plasma.</string>
+    <string name="B_Desc">Type B blood is determined with B antigens present on the surface of the
+        red blood cells and antibodies A in the plasma.</string>
+    <string name="O_Desc">The absence of both A and B antigens on the surface of the red blood cells
+        combined with the presence of both A and B antibodies in the plasma is Typed as O blood group.</string>
+    <string name="AB_Desc">The presence of both A and B antigens on the surface of the red blood cells
+        along with the absence of A and B antibodies in the plasma make the AB blood group.</string>
+
+
+
+</resources>
+
+
+
+
